@@ -17,8 +17,8 @@ This project analyzes Amazon customer reviews to uncover insights into brand per
 * Price vs Rating Analysis: Reveals that lower-priced products attract more reviews and higher engagement.
 * Engagement by Category: Highlights Electronics and Home & Kitchen as top categories driving customer interaction.
 
-SCREENSHORT
-![Amazon Customer Review Dashboard]()
+## SCREENSHORT
+![Amazon Customer Review Dashboard](https://github.com/OgaPrecious/Amazon-Customer-Review-Project/blob/main/amazon%20dashboard.png)
 
 ## 🔹 Business Insights & Recommendations
 
